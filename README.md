@@ -44,7 +44,7 @@ Example: Input "Colors: #abc, #123456. Invalid: #12345g", output "#abc\n#123456"
 title: Extract and Combine Strings
 ---
 
-# Problem Statement
+# Problem Statement 1
 
 Implement a function `combine_strings(data: dict) -> str` that takes a dictionary where keys are strings and values are lists of strings. The function should return a single string formed by concatenating the first element of each list corresponding to the keys, separated by a space. If any list is empty, skip that key.
 
@@ -119,7 +119,7 @@ is_equal(
 title: Calculate Total Expenditure
 ---
 
-# Problem Statement
+# Problem Statement 2
 
 Write a function `calculate_expenditure(prices: list[float], quantities: list[int]) -> float` that calculates the total expenditure by multiplying corresponding prices and quantities, then summing them. If the lists are of unequal length, consider only the minimum length.
 
@@ -195,7 +195,7 @@ is_equal(
 title: Filter and Format Student Records
 ---
 
-# Problem Statement
+# Problem Statement 3
 
 Implement a program that reads student records from standard input and prints students with a grade above 60. Each input line represents a record as `"name grade"`. Output each valid record on a new line.
 
@@ -258,7 +258,7 @@ Jane 70
 title: Detect Valid Hexadecimal Colors
 ---
 
-# Problem Statement
+# Problem Statement 4
 
 Write a program that takes multiple lines of input and prints all valid hexadecimal color codes found in each line. A valid color code starts with a `#` followed by exactly 3 or 6 hexadecimal characters (`0-9`, `a-f`, `A-F`). Print each unique valid color code in the order of appearance.
 
