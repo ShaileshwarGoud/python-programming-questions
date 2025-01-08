@@ -1,5 +1,7 @@
 # python-programming-questions
 Questions by Shaileshwar
+
+
 Summary of Questions
 1.Extract and Combine Strings
 Type: Function type, Data types
