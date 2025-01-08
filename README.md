@@ -3,6 +3,7 @@ Questions by Shaileshwar
 
 
 Summary of Questions
+
 1.Extract and Combine Strings
 Type: Function type, Data types
 Description: Concatenate the first element of each non-empty list from a dictionary's values into a single string separated by spaces.
